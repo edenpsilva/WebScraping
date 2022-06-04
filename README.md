@@ -15,10 +15,10 @@ This project is base on: https://medium.com/@meigarom/o-projeto-de-data-engineer
 ## My implementation
 
 On the first cycle, I implemented a solution using two main files: 
-**util.py - that contains several functions to get information from the page
-**Web Scraping.py  - that contais the functions to navegate into the webpages and the code to save the collected data into a database
+- util.py - that contains several functions to get information from the page
+- Web Scraping.py  - that contais the functions to navegate into the webpages and the code to save the collected data into a database
 
-**db_creation - the tird file in this project is responsable to the database creation. Considering a SQLite database.
+db_creation - the tird file in this project is responsable to the database creation. Considering a SQLite database.
 
 The project is implemented using Pyhton and SQL. 
 1. Selenium for Python was used to navegate between the pages
